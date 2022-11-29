@@ -63,11 +63,7 @@ To run the project directly in the Godot Engine, you must first download the eng
 [Linux](https://docs.godotengine.org/en/stable/development/compiling/compiling_for_x11.html), or
 [macOS](https://docs.godotengine.org/en/stable/development/compiling/compiling_for_osx.html).
 
-* Clone this repository with the following command:
-
-    ```
-    git clone --recursive https://github.com/Decrypted-X/CS1D-Pacman.git
-    ```
+* Clone this repository.
 
 * Then compile the godot-cpp bindings with the following commands. Replace ```<platform>``` with windows, linux, or osx
 depending on your OS.
